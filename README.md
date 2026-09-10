@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Banking-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Banking-Platform?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Banking-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Banking-Platform?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Banking-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Banking-Platform?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Banking-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-API-Banking-Platform?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Banking-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -169,12 +169,12 @@ API-first core banking engines that handle client accounts, interest accrual, po
 
 | Project | Description | License |
 | :--- | :--- | :--- |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | Open-source self-hosted financial manager and transaction accounting system | AGPL-3.0 |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Battle-tested, API-first headless core banking platform and financial accounting engine | Apache-2.0 |
-| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | Cloud-native multi-asset digital ledger and core transaction platform | Apache-2.0 |
-| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Enterprise distribution and UI portal built around Apache Fineract | MPL-2.0 |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | Open-source self-hosted financial manager and transaction accounting system | AGPL-3.0 |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Battle-tested, API-first headless core banking platform and financial accounting engine | Apache-2.0 |
+| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub_Stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | Cloud-native multi-asset digital ledger and core transaction platform | Apache-2.0 |
+| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub_Stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Enterprise distribution and UI portal built around Apache Fineract | MPL-2.0 |
 | [Mifos Ecosystem](https://mifos.org/) | Global digital financial services ecosystem and financial inclusion platform | Multiple OSS |
-| [Apache Fineract CN](https://github.com/apache/fineract-cn) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract-cn?style=social&color=white)](https://github.com/apache/fineract-cn/stargazers) | Next-generation cloud-native microservices architecture for core financial institutions | Apache-2.0 |
+| [Apache Fineract CN](https://github.com/apache/fineract-cn) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract-cn?style=social&color=white)](https://github.com/apache/fineract-cn/stargazers) | Next-generation cloud-native microservices architecture for core financial institutions | Apache-2.0 |
 
 ---
 
@@ -200,19 +200,19 @@ A programmable double-entry ledger is the immutable single source of truth for a
                   Accounting
 ```
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Description |
 | :--- | :--- |
-| [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Full-featured open-source ERP with double-entry accounting engine |
-| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Open-source ERP featuring complete double-entry financial ledger and multi-currency accounting |
-| [Hyperledger Fabric](https://github.com/hyperledger/fabric) [![GitHub stars](https://img.shields.io/github/stars/hyperledger/fabric?style=social&color=white)](https://github.com/hyperledger/fabric/stargazers) | Enterprise-grade permissioned distributed ledger framework for financial settlement networks |
-| [Kill Bill](https://github.com/killbill/killbill) [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Open-source subscription billing, invoice management, and payment ledger platform |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Complete core banking platform with built-in chart of accounts and double-entry general ledger |
-| [Formance Ledger](https://github.com/formancehq/ledger) [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable double-entry financial ledger purpose-built for real-time fintech money movement |
-| [Formance Stack](https://github.com/formancehq/stack) [![GitHub stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers) | Complete financial infrastructure platform with multi-rail connectors and balance tracking |
-| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | High-throughput, multi-currency ledger engine designed for modern fintechs and digital assets |
-| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Integrated core banking ledger with automated balance tracking and portfolio reporting |
+| [Odoo Community](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Full-featured open-source ERP with double-entry accounting engine |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Open-source ERP featuring complete double-entry financial ledger and multi-currency accounting |
+| [Hyperledger Fabric](https://github.com/hyperledger/fabric) [![GitHub_Stars](https://img.shields.io/github/stars/hyperledger/fabric?style=social&color=white)](https://github.com/hyperledger/fabric/stargazers) | Enterprise-grade permissioned distributed ledger framework for financial settlement networks |
+| [Kill Bill](https://github.com/killbill/killbill) [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Open-source subscription billing, invoice management, and payment ledger platform |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Complete core banking platform with built-in chart of accounts and double-entry general ledger |
+| [Formance Ledger](https://github.com/formancehq/ledger) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable double-entry financial ledger purpose-built for real-time fintech money movement |
+| [Formance Stack](https://github.com/formancehq/stack) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers) | Complete financial infrastructure platform with multi-rail connectors and balance tracking |
+| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub_Stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | High-throughput, multi-currency ledger engine designed for modern fintechs and digital assets |
+| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub_Stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Integrated core banking ledger with automated balance tracking and portfolio reporting |
 
 ---
 
@@ -249,18 +249,18 @@ A programmable double-entry ledger is the immutable single source of truth for a
 
 Payment orchestration platforms, billing engines, and multi-processor routing solutions.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Focus |
 | :--- | :--- |
-| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | High-performance open-source payment orchestrator supporting 50+ processors, smart routing, and failovers |
-| [Lago](https://github.com/getlago/lago) [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Open-source metering and usage-based billing infrastructure for modern fintech & software platforms |
-| [Kill Bill](https://github.com/killbill/killbill) [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Comprehensive billing and payment platform with multi-gateway routing and plugin ecosystem |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core financial transaction services, teller operations, and batch payment clearing |
-| [Open Bank Project](https://github.com/OpenBankProject/OBP-API) [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | Standardized open banking API middleware connecting apps to payment rails |
-| [Moov](https://github.com/moov-io/ach) [![GitHub stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | Modular financial infrastructure libraries for ACH, FedNow, RTP, and wire processing |
-| [Formance](https://github.com/formancehq/stack) [![GitHub stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers) | Financial flow orchestration and payment connector framework |
-| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Real-time, interoperable payment platform designed for financial inclusion and cross-network transfers |
+| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | High-performance open-source payment orchestrator supporting 50+ processors, smart routing, and failovers |
+| [Lago](https://github.com/getlago/lago) [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Open-source metering and usage-based billing infrastructure for modern fintech & software platforms |
+| [Kill Bill](https://github.com/killbill/killbill) [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Comprehensive billing and payment platform with multi-gateway routing and plugin ecosystem |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core financial transaction services, teller operations, and batch payment clearing |
+| [Open Bank Project](https://github.com/OpenBankProject/OBP-API) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | Standardized open banking API middleware connecting apps to payment rails |
+| [Moov](https://github.com/moov-io/ach) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | Modular financial infrastructure libraries for ACH, FedNow, RTP, and wire processing |
+| [Formance](https://github.com/formancehq/stack) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers) | Financial flow orchestration and payment connector framework |
+| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub_Stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Real-time, interoperable payment platform designed for financial inclusion and cross-network transfers |
 
 ---
 
@@ -268,15 +268,15 @@ Payment orchestration platforms, billing engines, and multi-processor routing so
 
 Standardized API layers implementing PSD2, Open Banking UK, XS2A, and Open Finance specifications.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Primary Role |
 | :--- | :--- |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | API-first headless core banking system exposing hundreds of financial REST endpoints |
-| [Open Bank Project API](https://github.com/OpenBankProject/OBP-API) [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | Standardized open banking API middleware implementing PSD2, Open Finance, and ISO standards |
-| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Open-source software for interoperable financial services and inter-bank clearing |
-| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Full suite of core banking APIs with pre-integrated mobile and web client interfaces |
-| [OBP-API Explorer](https://github.com/OpenBankProject/API-Explorer-II) [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/API-Explorer-II?style=social&color=white)](https://github.com/OpenBankProject/API-Explorer-II/stargazers) | Interactive exploration and documentation console for Open Bank Project endpoints |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | API-first headless core banking system exposing hundreds of financial REST endpoints |
+| [Open Bank Project API](https://github.com/OpenBankProject/OBP-API) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | Standardized open banking API middleware implementing PSD2, Open Finance, and ISO standards |
+| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub_Stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Open-source software for interoperable financial services and inter-bank clearing |
+| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub_Stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Full suite of core banking APIs with pre-integrated mobile and web client interfaces |
+| [OBP-API Explorer](https://github.com/OpenBankProject/API-Explorer-II) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/API-Explorer-II?style=social&color=white)](https://github.com/OpenBankProject/API-Explorer-II/stargazers) | Interactive exploration and documentation console for Open Bank Project endpoints |
 
 ---
 
@@ -284,18 +284,18 @@ Standardized API layers implementing PSD2, Open Banking UK, XS2A, and Open Finan
 
 Low-level protocol parsers, clearing gateways, ISO 8583 / ISO 20022 messaging engines, and FedACH/FedNow libraries.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Technology / Role |
 | :--- | :--- |
-| [Apache Camel](https://github.com/apache/camel) [![GitHub stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers) | Powerful enterprise integration framework with 300+ connectors for financial messaging and routing |
-| [jPOS](https://github.com/jpos/jPOS) [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) | Java-based ISO 8583 transaction processing engine widely used in ATMs and POS networks |
-| [Moov ACH](https://github.com/moov-io/ach) [![GitHub stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | High-performance Go library to parse, validate, and generate NACHA ACH files |
-| [Moov ISO 8583](https://github.com/moov-io/iso8583) [![GitHub stars](https://img.shields.io/github/stars/moov-io/iso8583?style=social&color=white)](https://github.com/moov-io/iso8583/stargazers) | Pure Go implementation for financial transaction messaging conforming to ISO 8583 standard |
-| [Moov Watchman](https://github.com/moov-io/watchman) [![GitHub stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers) | Real-time OFAC, PEP, and sanctions search and screening engine in Go |
-| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Level One Project reference implementation for cross-network instant payment switches |
-| [Moov Wire](https://github.com/moov-io/wire) [![GitHub stars](https://img.shields.io/github/stars/moov-io/wire?style=social&color=white)](https://github.com/moov-io/wire/stargazers) | Pure Go library to read, write, and validate Fedwire payment messages |
-| [Moov ACH Gateway](https://github.com/moov-io/achgateway) [![GitHub stars](https://img.shields.io/github/stars/moov-io/achgateway?style=social&color=white)](https://github.com/moov-io/achgateway/stargazers) | Dedicated ACH gateway to originate and manage payment batches directly with ODFI banks |
+| [Apache Camel](https://github.com/apache/camel) [![GitHub_Stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers) | Powerful enterprise integration framework with 300+ connectors for financial messaging and routing |
+| [jPOS](https://github.com/jpos/jPOS) [![GitHub_Stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) | Java-based ISO 8583 transaction processing engine widely used in ATMs and POS networks |
+| [Moov ACH](https://github.com/moov-io/ach) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | High-performance Go library to parse, validate, and generate NACHA ACH files |
+| [Moov ISO 8583](https://github.com/moov-io/iso8583) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/iso8583?style=social&color=white)](https://github.com/moov-io/iso8583/stargazers) | Pure Go implementation for financial transaction messaging conforming to ISO 8583 standard |
+| [Moov Watchman](https://github.com/moov-io/watchman) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers) | Real-time OFAC, PEP, and sanctions search and screening engine in Go |
+| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub_Stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Level One Project reference implementation for cross-network instant payment switches |
+| [Moov Wire](https://github.com/moov-io/wire) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/wire?style=social&color=white)](https://github.com/moov-io/wire/stargazers) | Pure Go library to read, write, and validate Fedwire payment messages |
+| [Moov ACH Gateway](https://github.com/moov-io/achgateway) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/achgateway?style=social&color=white)](https://github.com/moov-io/achgateway/stargazers) | Dedicated ACH gateway to originate and manage payment batches directly with ODFI banks |
 
 ---
 
@@ -303,16 +303,16 @@ Low-level protocol parsers, clearing gateways, ISO 8583 / ISO 20022 messaging en
 
 Software components for transaction authorization, ledgering, ISO messaging, and payment processing.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Role |
 | :--- | :--- |
-| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Payment orchestration, intelligent multi-processor failover, and card tokenization |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core account management, card association, and balance holds |
-| [jPOS](https://github.com/jpos/jPOS) [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) | ISO 8583 message switching and core card processing gateway |
-| [Moov](https://github.com/moov-io/ach) [![GitHub stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | Payment file formatting, NACHA compliance, and financial API libraries |
-| [Formance](https://github.com/formancehq/stack) [![GitHub stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers) | Financial ledgering, transaction routing, and multi-asset accounting |
-| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Customer card association, savings accounts, and payment settlement records |
+| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Payment orchestration, intelligent multi-processor failover, and card tokenization |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core account management, card association, and balance holds |
+| [jPOS](https://github.com/jpos/jPOS) [![GitHub_Stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) | ISO 8583 message switching and core card processing gateway |
+| [Moov](https://github.com/moov-io/ach) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | Payment file formatting, NACHA compliance, and financial API libraries |
+| [Formance](https://github.com/formancehq/stack) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers) | Financial ledgering, transaction routing, and multi-asset accounting |
+| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub_Stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Customer card association, savings accounts, and payment settlement records |
 
 ---
 
@@ -320,14 +320,14 @@ Software components for transaction authorization, ledgering, ISO messaging, and
 
 Open-source Loan Management Systems (LMS) and Loan Origination Systems (LOS) covering credit decisioning, disbursement, interest schedules, and collections.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Description |
 | :--- | :--- |
-| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Comprehensive business and financial management system with built-in invoicing and loans |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Mature credit platform supporting fixed/declining interest, group lending, collateral, and delinquency tracking |
-| [Frappe Lending](https://github.com/frappe/lending) [![GitHub stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers) | Modern open-source loan management system covering origination, disbursements, and repayments |
-| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Digital microfinance, loan portfolio management, and mobile loan officer tooling |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Comprehensive business and financial management system with built-in invoicing and loans |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Mature credit platform supporting fixed/declining interest, group lending, collateral, and delinquency tracking |
+| [Frappe Lending](https://github.com/frappe/lending) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers) | Modern open-source loan management system covering origination, disbursements, and repayments |
+| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub_Stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | Digital microfinance, loan portfolio management, and mobile loan officer tooling |
 
 ---
 
@@ -335,18 +335,18 @@ Open-source Loan Management Systems (LMS) and Loan Origination Systems (LOS) cov
 
 Financial ledger reconciliation engines, multi-currency accounting, and bank statement matching systems.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project | Role |
 | :--- | :--- |
-| [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Comprehensive ERP with automated bank statement reconciliation and general ledger |
-| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Multi-processor settlement reconciliation, dispute management, and fee audit trails |
-| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full double-entry financial accounting, bank reconciliation, and cash flow forecasting |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | Self-hosted transaction accounting, budget enforcement, and asset tracking |
-| [Kill Bill](https://github.com/killbill/killbill) [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Subscription billing, invoice balance tracking, and automated payment reconciliation |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Automated daily financial reconciliation, general ledger posting, and trial balance generation |
-| [Formance Ledger](https://github.com/formancehq/ledger) [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable immutable double-entry ledger acting as the definitive source of truth |
-| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | Cloud-native multi-asset ledger supporting real-time transaction reconciliation |
+| [Odoo Community](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Comprehensive ERP with automated bank statement reconciliation and general ledger |
+| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | Multi-processor settlement reconciliation, dispute management, and fee audit trails |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full double-entry financial accounting, bank reconciliation, and cash flow forecasting |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | Self-hosted transaction accounting, budget enforcement, and asset tracking |
+| [Kill Bill](https://github.com/killbill/killbill) [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Subscription billing, invoice balance tracking, and automated payment reconciliation |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Automated daily financial reconciliation, general ledger posting, and trial balance generation |
+| [Formance Ledger](https://github.com/formancehq/ledger) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable immutable double-entry ledger acting as the definitive source of truth |
+| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub_Stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | Cloud-native multi-asset ledger supporting real-time transaction reconciliation |
 
 ---
 
@@ -354,19 +354,19 @@ Financial ledger reconciliation engines, multi-currency accounting, and bank sta
 
 Essential building blocks for identity verification, sanctions list screening, authorization policies, and cryptographic security.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | Project / Technology | Role |
 | :--- | :--- |
-| [Keycloak](https://github.com/keycloak/keycloak) [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Open-source identity and access management (IAM) supporting OAuth2, OIDC, and FAPI |
-| [Google Tink](https://github.com/google/tink) [![GitHub stars](https://img.shields.io/github/stars/google/tink?style=social&color=white)](https://github.com/google/tink/stargazers) | Multi-platform, secure cryptographic library used for fintech payload encryption and key management |
-| [Open Policy Agent](https://github.com/open-policy-agent/opa) [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) | General-purpose policy engine for fine-grained authorization, transaction limits, and risk rules |
-| [OpenFGA](https://github.com/openfga/openfga) [![GitHub stars](https://img.shields.io/github/stars/openfga/openfga?style=social&color=white)](https://github.com/openfga/openfga/stargazers) | Fine-Grained Authorization system based on Google Zanzibar, ideal for banking permissions |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Customer Master Data Management (MDM), KYC identity documents, and account hierarchy |
-| [Open Bank Project](https://github.com/OpenBankProject/OBP-API) [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | Standardized banking consent management and secure entitlement APIs |
-| [OpenSanctions](https://github.com/opensanctions/opensanctions) [![GitHub stars](https://img.shields.io/github/stars/opensanctions/opensanctions?style=social&color=white)](https://github.com/opensanctions/opensanctions/stargazers) | Open international database of sanctions lists, politically exposed persons (PEPs), and corporate registries |
-| [Moov Watchman](https://github.com/moov-io/watchman) [![GitHub stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers) | Open-source search and screening engine for OFAC SDN lists, BIS, and EU sanctions lists |
-| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Transaction validation, cryptographic security signatures, and clearing integrity |
+| [Keycloak](https://github.com/keycloak/keycloak) [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | Open-source identity and access management (IAM) supporting OAuth2, OIDC, and FAPI |
+| [Google Tink](https://github.com/google/tink) [![GitHub_Stars](https://img.shields.io/github/stars/google/tink?style=social&color=white)](https://github.com/google/tink/stargazers) | Multi-platform, secure cryptographic library used for fintech payload encryption and key management |
+| [Open Policy Agent](https://github.com/open-policy-agent/opa) [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) | General-purpose policy engine for fine-grained authorization, transaction limits, and risk rules |
+| [OpenFGA](https://github.com/openfga/openfga) [![GitHub_Stars](https://img.shields.io/github/stars/openfga/openfga?style=social&color=white)](https://github.com/openfga/openfga/stargazers) | Fine-Grained Authorization system based on Google Zanzibar, ideal for banking permissions |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Customer Master Data Management (MDM), KYC identity documents, and account hierarchy |
+| [Open Bank Project](https://github.com/OpenBankProject/OBP-API) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | Standardized banking consent management and secure entitlement APIs |
+| [OpenSanctions](https://github.com/opensanctions/opensanctions) [![GitHub_Stars](https://img.shields.io/github/stars/opensanctions/opensanctions?style=social&color=white)](https://github.com/opensanctions/opensanctions/stargazers) | Open international database of sanctions lists, politically exposed persons (PEPs), and corporate registries |
+| [Moov Watchman](https://github.com/moov-io/watchman) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/watchman?style=social&color=white)](https://github.com/moov-io/watchman/stargazers) | Open-source search and screening engine for OFAC SDN lists, BIS, and EU sanctions lists |
+| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub_Stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | Transaction validation, cryptographic security signatures, and clearing integrity |
 
 ---
 
@@ -544,20 +544,20 @@ flowchart LR
 
 | Project | Core Banking | Ledger | Payments | Open Banking | Lending | Self-Host |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Odoo Community](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ❌ | ✅ | ⚠️ | ❌ | ⚠️ | ✅ |
-| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | ❌ | ⚠️ | ✅ | ❌ | ❌ | ✅ |
-| [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ❌ | ✅ | ⚠️ | ❌ | ⚠️ | ✅ |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | ⚠️ | ✅ | ⚠️ | ❌ | ❌ | ✅ |
-| [Kill Bill](https://github.com/killbill/killbill) [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | ❌ | ⚠️ | ✅ | ❌ | ❌ | ✅ |
-| [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | ✅ | ✅ | ⚠️ | ⚠️ | ✅ | ✅ |
-| [Formance](https://github.com/formancehq/ledger) [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | ❌ | ✅ | ✅ | ❌ | ⚠️ | ✅ |
-| [Open Bank Project](https://github.com/OpenBankProject/OBP-API) [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ |
-| [jPOS](https://github.com/jpos/jPOS) [![GitHub stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Moov](https://github.com/moov-io/ach) [![GitHub stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | ❌ | ⚠️ | ✅ | ❌ | ❌ | ✅ |
-| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | ❌ | ✅ | ⚠️ | ❌ | ❌ | ✅ |
-| [Frappe Lending](https://github.com/frappe/lending) [![GitHub stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers) | ❌ | ⚠️ | ❌ | ❌ | ✅ | ✅ |
-| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | ❌ | ⚠️ | ✅ | ⚠️ | ❌ | ✅ |
-| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | ✅ | ✅ | ⚠️ | ⚠️ | ✅ | ✅ |
+| [Odoo Community](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | ❌ | ✅ | ⚠️ | ❌ | ⚠️ | ✅ |
+| [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) | ❌ | ⚠️ | ✅ | ❌ | ❌ | ✅ |
+| [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | ❌ | ✅ | ⚠️ | ❌ | ⚠️ | ✅ |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | ⚠️ | ✅ | ⚠️ | ❌ | ❌ | ✅ |
+| [Kill Bill](https://github.com/killbill/killbill) [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | ❌ | ⚠️ | ✅ | ❌ | ❌ | ✅ |
+| [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | ✅ | ✅ | ⚠️ | ⚠️ | ✅ | ✅ |
+| [Formance](https://github.com/formancehq/ledger) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | ❌ | ✅ | ✅ | ❌ | ⚠️ | ✅ |
+| [Open Bank Project](https://github.com/OpenBankProject/OBP-API) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| [jPOS](https://github.com/jpos/jPOS) [![GitHub_Stars](https://img.shields.io/github/stars/jpos/jPOS?style=social&color=white)](https://github.com/jpos/jPOS/stargazers) | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Moov](https://github.com/moov-io/ach) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers) | ❌ | ⚠️ | ✅ | ❌ | ❌ | ✅ |
+| [Midaz](https://github.com/lerianstudio/midaz) [![GitHub_Stars](https://img.shields.io/github/stars/lerianstudio/midaz?style=social&color=white)](https://github.com/lerianstudio/midaz/stargazers) | ❌ | ✅ | ⚠️ | ❌ | ❌ | ✅ |
+| [Frappe Lending](https://github.com/frappe/lending) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers) | ❌ | ⚠️ | ❌ | ❌ | ✅ | ✅ |
+| [Mojaloop](https://github.com/mojaloop/mojaloop) [![GitHub_Stars](https://img.shields.io/github/stars/mojaloop/mojaloop?style=social&color=white)](https://github.com/mojaloop/mojaloop/stargazers) | ❌ | ⚠️ | ✅ | ⚠️ | ❌ | ✅ |
+| [Mifos X](https://github.com/openMF/mifos-x) [![GitHub_Stars](https://img.shields.io/github/stars/openMF/mifos-x?style=social&color=white)](https://github.com/openMF/mifos-x/stargazers) | ✅ | ✅ | ⚠️ | ⚠️ | ✅ | ✅ |
 
 ---
 
